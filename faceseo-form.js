@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://hocvienfaceseo.com";
+	window.location="https://www.facebook.com/Đất-Khu-Dân-Cư-Nam-Tân-Uyên-449835025777312/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
